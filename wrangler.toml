@@ -1,11 +1,11 @@
 name = "novel-site"
 pages_build_output_dir = "."
-compatibility_date = "2026-02-01"
+compatibility_date = "2026-02-25"
 
 [[d1_databases]]
 binding = "DB"
 database_name = "novel-db"
-database_id = "your-database-id"  # 部署时改为 807ef966-4df8-4eca-bcad-95d186775be0
+database_id = "8598c21d-c3a9-47f4-b2d6-2e7cb455720f"
 
 [[r2_buckets]]
 binding = "R2"
